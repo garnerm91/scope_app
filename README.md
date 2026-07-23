@@ -1,4 +1,4 @@
-# Oscilloscope Viewer
+# Oscilloscope Viewer SnekChoice
 oscilloscope desktop app (Dear PyGui + PyVISA) for pulling
 waveforms off a Tektronix scope, viewing them as a waveform, FFT, or clock
 jitter (TIE) plot, and exporting multi-channel captures for use in
