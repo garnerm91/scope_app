@@ -114,3 +114,5 @@ scope_project/
   protocol decoder (I2C, SPI, UART, ...) on the imported data requires
   applying a logic-threshold Conversion in PulseView first - the decoder
   can't be pointed at analog data directly.
+  ## Video 
+[![Watch the video](https://img.youtube.com/vi/yHjO-PxweJk/0.jpg)](https://www.youtube.com/watch?v=yHjO-PxweJk)
