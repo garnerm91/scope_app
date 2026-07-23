@@ -19,7 +19,7 @@ Tested against a Tektronix **TDS2014C**, **TDS3012B**, and **TDS5054B**
   - **Single Seq** - forces one fresh trigger, waits for it, then reads
   - **Continuous** - free-running, forces a fresh trigger every cycle
 - **Run/Stop** button - queries the instrument's actual acquisition state
-  and sends the opposite, so the button always reflects reality
+  and sends the opposite, so the button often reflects reality (it only queries when pressed)
 - Three plot views, toggled live on the same chart:
   - **Waveform** - voltage vs. time
   - **FFT** - dBV magnitude spectrum (Hann window, DC removed, RMS-referenced)
