@@ -5,7 +5,7 @@ jitter (TIE) plot, and exporting multi-channel captures for use in
 sigrok/PulseView. Runs fine with no hardware attached (simulated data),
 so the UI is fully testable standalone.
  
-Tested against a Tektronix **TDS2014C**, **TDS3012B**, and **TDS5054B** —
+Tested against a Tektronix **TDS2014C**, **TDS3012B**, and **TDS5054B**
 
 ## Features
  
