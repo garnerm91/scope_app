@@ -1,0 +1,3 @@
+numpy>=1.26
+DearPyGui>=1.10
+pyvisa>=1.13.0,<1.17
