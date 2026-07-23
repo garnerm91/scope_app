@@ -6,7 +6,7 @@ sigrok/PulseView. Runs fine with no hardware attached (simulated data),
 so the UI is fully testable standalone.
  
 Tested against a Tektronix **TDS2014C**, **TDS3012B**, and **TDS5054B**
-
+![Capture](Capture.JPG)
 ## Features
  
 - Multi-channel (CH1-CH4) **synchronized** capture — reads all enabled
